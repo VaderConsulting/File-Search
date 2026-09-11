@@ -1,6 +1,6 @@
 # File Search
 
-VB6 working copy of `File Search` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: SEARCH. Output: `File Search.exe`. File Search.  A program designed to allow the viewing and graphing of directories, recursively on any drive. `VersionCompanyName`: Chips, Bits and Bytes.
+1998 Dave Robinson / Chips, Bits and Bytes VB6 File Search (`File Search.exe`, product SEARCH). Recursively walks any drive, lists directory contents, and graphs sizes with MSChart (3D/2D bar, area, pie). Splash + main `frmFiles` UI; copyright (c) 1998 D. Robinson.
 
 **Source last updated:** 1998-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
